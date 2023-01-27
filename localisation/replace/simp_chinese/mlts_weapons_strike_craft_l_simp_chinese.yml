@@ -1,0 +1,19 @@
+﻿l_simp_chinese:
+
+MLTS_ORBIT_HANGAR_CS_1:0 "奥比特无人机群"
+MLTS_ORBIT_HANGAR_CS_1_DESC:0 "小型无人机群会从格纳库出击，环绕敌对目标进行攻击"
+
+MLTS_ORBIT_HANGAR_1:0 "奥比特无人机群"
+
+
+
+
+MLTS_FIGHTER_HANGAR_CS_1:0 "F-10/BC 战机群"
+MLTS_FIGHTER_HANGAR_CS_1_DESC:0 "为MLTS系列战术机设计的第一代战术机携带战机群，已经进行了轻量化设计改良"
+
+MLTS_FIGHTER_HANGAR_1:0 "F-10/BC 战机群"
+
+MLTS_FIGHTER_HANGAR_CS_2:0 "F-15/BC 战机"
+MLTS_FIGHTER_HANGAR_CS_2_DESC:0 "以第二代战术机为基础设计的舰载型战术机"
+
+MLTS_FIGHTER_HANGAR_2:0 "F-15/BC 战机群"

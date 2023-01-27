@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+
+mlts_tactical_suit_01_build_speed_mult:0 "第一代战术机 制造速度"
+mlts_tactical_suit_01_build_cost_mult:0 "第一代战术机 资源花费"
+mlts_tactical_suit_01_upkeep_mult:0 "第一代战术机 维护费"
+mlts_tactical_suit_01_hull_mult:0 "第一代战术机 结构值"
+mlts_tactical_suit_01_hull_add:0 "第一代战术机 结构值"
+
+mlts_tactical_suit_02_build_speed_mult:0 "第二代战术机 制造速度"
+mlts_tactical_suit_02_build_cost_mult:0 "第二代战术机 资源花费"
+mlts_tactical_suit_02_upkeep_mult:0 "第二代战术机 维护费"
+mlts_tactical_suit_02_hull_mult:0 "第二代战术机 结构值"
+mlts_tactical_suit_02_hull_add:0 "第二代战术机 结构值" 

@@ -1,0 +1,155 @@
+﻿l_simp_chinese:
+
+MLTS_36mm_CHAINGUN_CS_1:0 "36mm 机关炮 M136"
+MLTS_36mm_CHAINGUN_CS_1_DESC:0 "发射大口径炮弹的机关炮，炮弹内置了小型炸药"
+MLTS_36mm_CHAINGUN_SMALL_1:0 "36mm 机关炮 M136"
+
+MLTS_36mm_CHAINGUN_CS_2:0 "36mm 机关炮 M223"
+MLTS_36mm_CHAINGUN_CS_2_DESC:0 "发射大口径炮弹的机关炮，炮弹内置了小型炸药"
+MLTS_36mm_CHAINGUN_SMALL_2:0 "36mm 机关炮 M223"
+
+MLTS_36mm_CHAINGUN_CS_3:0 "36mm 机关炮 M282"
+MLTS_36mm_CHAINGUN_CS_3_DESC:0 "发射大口径炮弹的机关炮，炮弹内置了小型炸药"
+MLTS_36mm_CHAINGUN_SMALL_3:0 "36mm 机关炮 M282"
+
+MLTS_36mm_CHAINGUN_CS_4:0 "36mm 机关炮 XM88"
+MLTS_36mm_CHAINGUN_CS_4_DESC:0 "发射大口径炮弹的机关炮，炮弹内置了小型炸药"
+MLTS_36mm_CHAINGUN_SMALL_4:0 "36mm 机关炮 XM88"
+
+MLTS_36mm_CHAINGUN_CS_5:0 "36mm 机关炮 XM102"
+MLTS_36mm_CHAINGUN_CS_5_DESC:0 "发射大口径炮弹的机关炮，炮弹内置了小型炸药"
+MLTS_36mm_CHAINGUN_SMALL_5:0 "36mm 机关炮 XM102"
+
+
+
+
+
+MLTS_57mm_GUN_CS_1:0 "57mm 战斗步枪 A76"
+MLTS_57mm_GUN_CS_1_DESC:0 "在中近距离发挥十分优秀的步枪，能稳定输出大量的伤害"
+MLTS_57mm_GUN_MEDIUM_1:0 "57mm 战斗步枪 A76"
+
+MLTS_57mm_GUN_CS_2:0 "57mm 战斗步枪 A76M"
+MLTS_57mm_GUN_CS_2_DESC:0 "在中近距离发挥十分优秀的步枪，能稳定输出大量的伤害"
+MLTS_57mm_GUN_MEDIUM_2:0 "57mm 战斗步枪 A76M"
+
+MLTS_57mm_GUN_CS_3:0 "57mm 战斗步枪 A112"
+MLTS_57mm_GUN_CS_3_DESC:0 "在中近距离发挥十分优秀的步枪，能稳定输出大量的伤害"
+MLTS_57mm_GUN_MEDIUM_3:0 "57mm 战斗步枪 A112"
+
+MLTS_57mm_GUN_CS_4:0 "57mm 战斗步枪 XA54"
+MLTS_57mm_GUN_CS_4_DESC:0 "在中近距离发挥十分优秀的步枪，能稳定输出大量的伤害"
+MLTS_57mm_GUN_MEDIUM_4:0 "57mm 战斗步枪 XA54"
+
+MLTS_57mm_GUN_CS_5:0 "57mm 战斗步枪 XA92"
+MLTS_57mm_GUN_CS_5_DESC:0 "在中近距离发挥十分优秀的步枪，能稳定输出大量的伤害"
+MLTS_57mm_GUN_MEDIUM_5:0 "57mm 战斗步枪 XA92"
+
+
+
+
+
+MLTS_120mm_CANNON_CS_1:0 "120mm 太空加农炮 R92"
+MLTS_120mm_CANNON_CS_1_DESC:0 "适合在中距离使用的大口径火炮，弹头内置了融化装甲的等离子体"
+MLTS_120mm_CANNON_LARGE_1:0 "120mm 太空加农炮 R92"
+
+MLTS_120mm_CANNON_CS_2:0 "120mm 太空加农炮 R144"
+MLTS_120mm_CANNON_CS_2_DESC:0 "适合在中距离使用的大口径火炮，弹头内置了融化装甲的等离子体"
+MLTS_120mm_CANNON_LARGE_2:0 "120mm 太空加农炮 R144"
+
+MLTS_120mm_CANNON_CS_3:0 "120mm 太空加农炮 R306"
+MLTS_120mm_CANNON_CS_3_DESC:0 "适合在中距离使用的大口径火炮，弹头内置了融化装甲的等离子体"
+MLTS_120mm_CANNON_LARGE_3:0 "120mm 太空加农炮 R306"
+
+MLTS_120mm_CANNON_CS_4:0 "120mm 太空加农炮 XR18"
+MLTS_120mm_CANNON_CS_4_DESC:0 "适合在中距离使用的大口径火炮，弹头内置了融化装甲的等离子体"
+MLTS_120mm_CANNON_LARGE_4:0 "120mm 太空加农炮 XR18"
+
+MLTS_120mm_CANNON_CS_5:0 "120mm 太空加农炮 XR39"
+MLTS_120mm_CANNON_CS_5_DESC:0 "适合在中距离使用的大口径火炮，弹头内置了融化装甲的等离子体"
+MLTS_120mm_CANNON_LARGE_5:0 "120mm 太空加农炮 XR39"
+
+
+
+
+MLTS_120mm_AS_CANNON_CS_1:0 "120mm 反护盾加农炮 RS92"
+MLTS_120mm_AS_CANNON_CS_1_DESC:0 "适合在中距离使用的大口径火炮，专门设计用来反制护盾"
+MLTS_120mm_AS_CANNON_LARGE_1:0 "120mm 反护盾加农炮 RS92"
+
+MLTS_120mm_AS_CANNON_CS_2:0 "120mm 反护盾加农炮 RS144"
+MLTS_120mm_AS_CANNON_CS_2_DESC:0 "适合在中距离使用的大口径火炮，专门设计用来反制护盾"
+MLTS_120mm_AS_CANNON_LARGE_2:0 "120mm 反护盾加农炮 RS144"
+
+MLTS_120mm_AS_CANNON_CS_3:0 "120mm 反护盾加农炮 RS306"
+MLTS_120mm_AS_CANNON_CS_3_DESC:0 "适合在中距离使用的大口径火炮，专门设计用来反制护盾"
+MLTS_120mm_AS_CANNON_LARGE_3:0 "120mm 反护盾加农炮 RS306"
+
+MLTS_120mm_AS_CANNON_CS_4:0 "120mm 反护盾加农炮 XRS18"
+MLTS_120mm_AS_CANNON_CS_4_DESC:0 "适合在中距离使用的大口径火炮，专门设计用来反制护盾"
+MLTS_120mm_AS_CANNON_LARGE_4:0 "120mm 反护盾加农炮 XRS18"
+
+MLTS_120mm_AS_CANNON_CS_5:0 "120mm 反护盾加农炮 XRS39"
+MLTS_120mm_AS_CANNON_CS_5_DESC:0 "适合在中距离使用的大口径火炮，专门设计用来反制护盾"
+MLTS_120mm_AS_CANNON_LARGE_5:0 "120mm 反护盾加农炮 XRS39"
+
+
+
+
+
+
+MLTS_105mm_SNIPERCANNON_CS_1:0 "105mm 狙击型加农炮 SC48"
+MLTS_105mm_SNIPERCANNON_CS_1_DESC:0 "在长距离发挥优秀的狙击枪，炮弹内置了推进系统，更具有杀伤力"
+MLTS_105mm_SNIPERCANNON_1:0 "105mm 狙击型加农炮 SC48"
+
+MLTS_105mm_SNIPERCANNON_CS_2:0 "105mm 狙击型加农炮 SC76"
+MLTS_105mm_SNIPERCANNON_CS_2_DESC:0 "在长距离发挥优秀的狙击枪，炮弹内置了推进系统，更具有杀伤力"
+MLTS_105mm_SNIPERCANNON_2:0 "105mm 狙击型加农炮 SC76"
+
+
+
+
+
+MLTS_MISSILE_CS_1:0 "导弹 SSM-54"
+MLTS_MISSILE_CS_1_DESC:0 "该系列导弹设计为破甲型导弹，对装甲具有非常优秀的破甲能力"
+MLTS_MISSILE__1:0 "导弹 SSM-54"
+
+MLTS_MISSILE_CS_2:0 "导弹 SSM-99"
+MLTS_MISSILE_CS_2_DESC:0 "该系列导弹设计为破甲型导弹，对装甲具有非常优秀的破甲能力"
+MLTS_MISSILE_2:0 "导弹 SSM-99"
+
+MLTS_MISSILE_CS_3:0 "导弹 SSM-122"
+MLTS_MISSILE_CS_3_DESC:0 "该系列导弹设计为破甲型导弹，对装甲具有非常优秀的破甲能力"
+MLTS_MISSILE_3:0 "导弹 SSM-122"
+
+
+
+
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_1:0 "导弹 SIEM-32"
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_1_DESC:0 "高爆型导弹系列，导弹会射进脆弱的船体内部后引爆"
+MLTS_HIGH_EXPLOSIVE_MISSILE_1:0 "导弹 SIEM-32"
+
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_2:0 "导弹 SIEM-44"
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_2_DESC:0 "高爆型导弹系列，导弹会射进脆弱的船体内部后引爆"
+MLTS_HIGH_EXPLOSIVE_MISSILE_2:0 "导弹 SIEM-44"
+
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_3:0 "导弹 SIEM-98"
+MLTS_HIGH_EXPLOSIVE_MISSILE_CS_3_DESC:0 "高爆型导弹系列，导弹会射进脆弱的船体内部后引爆"
+MLTS_HIGH_EXPLOSIVE_MISSILE_3:0 "导弹 SIEM-98"
+
+
+
+
+MLTS_TORPEDO_CS_1:0 "鱼雷 SMK-40"
+MLTS_TORPEDO_CS_1_DESC:0 "为攻击大型目标设计的鱼雷系列"
+MLTS_TORPEDO_1:0 "鱼雷 SMK-40"
+
+MLTS_TORPEDO_CS_2:0 "鱼雷 SMK-82"
+MLTS_TORPEDO_CS_2_DESC:0 "为攻击大型目标设计的鱼雷系列"
+MLTS_TORPEDO_2:0 "鱼雷 SMK-82"
+
+MLTS_TORPEDO_CS_3:0 "鱼雷 SMK-106"
+MLTS_TORPEDO_CS_3_DESC:0 "为攻击大型目标设计的鱼雷系列"
+MLTS_TORPEDO_3:0 "鱼雷 SMK-106"
+
+
+
+

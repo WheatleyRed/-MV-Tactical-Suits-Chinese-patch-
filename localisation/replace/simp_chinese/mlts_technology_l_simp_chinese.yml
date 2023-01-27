@@ -1,0 +1,154 @@
+﻿l_simp_chinese:
+
+tech_mlts_pretech:0 "MLTS 战术机理论"
+tech_mlts_pretech_desc:0 "研究部件损坏时或根据作战需求来更换部件的机甲机体的可能性"
+
+tech_mlts_technology_1:0 "MLTS 战术机原型机设计"
+tech_mlts_technology_1_desc:0 "进行第一代战术机的设计"
+
+tech_mlts_technology_2:0 "MLTS 战术机强化工程"
+tech_mlts_technology_2_desc:0 "对战术机进行强化设计"
+
+tech_mlts_technology_3:0 "MLTS 战术机编队理论"
+tech_mlts_technology_3_desc:0 "为战术机进行大型作战设计理论"
+
+tech_mlts_technology_4:0 "MLTS "
+tech_mlts_technology_4_desc:0 ""
+
+tech_mlts_technology_5:0 "MLTS "
+tech_mlts_technology_5_desc:0 ""
+
+
+tech_mlts_mass_production_1:0 "MLTS 大量生产可行性研究"
+tech_mlts_mass_production_1_desc:0 ""
+
+tech_mlts_next_generation_1:0 "MLTS " 
+tech_mlts_next_generation_1_desc:0 ""
+
+
+
+
+
+tech_mlts_reactor_1:0 "MLTS 第一代反应堆"
+tech_mlts_reactor_1_desc:0 "对MLTS系列战术机进行第一代反应堆的研究"
+
+tech_mlts_reactor_2:0 "MLTS 第二代反应堆"
+tech_mlts_reactor_2_desc:0 "对MLTS系列战术机进行第二代反应堆的研究"
+
+tech_mlts_reactor_3:0 "MLTS 第三代反应堆"
+tech_mlts_reactor_3_desc:0 "对MLTS系列战术机进行第三代反应堆的研究"
+
+tech_mlts_reactor_4:0 "MLTS 第四代反应堆"
+tech_mlts_reactor_4_desc:0 "对MLTS系列战术机进行第四代反应堆的研究"
+
+tech_mlts_reactor_5:0 "MLTS 第五代反应堆"
+tech_mlts_reactor_5_desc:0 "对MLTS系列战术机进行第五代反应堆的研究"
+
+tech_mlts_reactor_6:0 "MLTS 第六代反应堆"
+tech_mlts_reactor_6_desc:0 "对MLTS系列战术机进行第六代反应堆的研究"
+
+
+
+tech_mlts_weapons_1:0 "MLTS 第一代武器"
+tech_mlts_weapons_1_desc:0 "对MLTS进行第一代武器设计进行研究"
+
+tech_mlts_weapons_2:0 "MLTS 第二代武器"
+tech_mlts_weapons_2_desc:0 "对MLTS进行第二代武器设计进行研究"
+
+tech_mlts_weapons_3:0 "MLTS 第三代武器"
+tech_mlts_weapons_3_desc:0 "对MLTS进行第三代武器设计进行研究"
+
+tech_mlts_weapons_4:0 "MLTS 第四代武器"
+tech_mlts_weapons_4_desc:0 "对MLTS进行第四代武器设计进行研究"
+
+tech_mlts_weapons_5:0 "MLTS 第五代武器"
+tech_mlts_weapons_5_desc:0 "对MLTS进行第五代武器设计进行研究"
+
+tech_mlts_weapons_6:0 "MLTS 第六代武器"
+tech_mlts_weapons_6_desc:0 "对MLTS进行第六代武器设计进行研究"
+
+tech_mlts_weapons_7:0 "MLTS 第七代武器"
+tech_mlts_weapons_7_desc:0 "对MLTS进行第七代武器设计进行研究"
+
+tech_mlts_weapons_8:0 "MLTS 第八代武器"
+tech_mlts_weapons_8_desc:0 "对MLTS进行第八代武器设计进行研究"
+
+tech_mlts_weapons_9:0 "MLTS 第九代武器"
+tech_mlts_weapons_9_desc:0 "对MLTS进行第九代武器设计进行研究"
+
+tech_mlts_weapons_10:0 "MLTS 第十代武器"
+tech_mlts_weapons_10_desc:0 "对MLTS进行第十代武器设计进行研究"
+
+
+
+
+
+
+tech_mlts_armor_1:0 "MLTS 第一代装甲板"
+tech_mlts_armor_1_desc:0 "为MLTS系列战术机设计适宜的装甲板"
+
+tech_mlts_armor_2:0 "MLTS 第二代装甲板"
+tech_mlts_armor_2_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_3:0 "MLTS 第三代装甲板"
+tech_mlts_armor_3_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_4:0 "MLTS 第四代装甲板"
+tech_mlts_armor_4_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_5:0 "MLTS 第五代装甲板"
+tech_mlts_armor_5_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_6:0 "MLTS 第六代装甲板"
+tech_mlts_armor_6_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_7:0 "MLTS 第七代装甲板"
+tech_mlts_armor_7_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_8:0 "MLTS 第八代装甲板"
+tech_mlts_armor_8_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_9:0 "MLTS 第九代装甲板"
+tech_mlts_armor_9_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+tech_mlts_armor_10:0 "MLTS 第十代装甲板"
+tech_mlts_armor_10_desc:0 "为MLTS系列战术机设计更适宜更强的装甲板"
+
+
+
+
+tech_mlts_shield_1:0 "MLTS 第一代偏转护盾"
+tech_mlts_shield_1_desc:0 "为MLTS系列战术机设计偏转护盾系统"
+
+tech_mlts_shield_2:0 "MLTS 第二代偏转护盾"
+tech_mlts_shield_2_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_3:0 "MLTS 第三代偏转护盾"
+tech_mlts_shield_3_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_4:0 "MLTS 第四代偏转护盾"
+tech_mlts_shield_4_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_5:0 "MLTS 第五代偏转护盾"
+tech_mlts_shield_5_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_6:0 "MLTS 第六代偏转护盾"
+tech_mlts_shield_6_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_7:0 "MLTS 第七代偏转护盾"
+tech_mlts_shield_7_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_8:0 "MLTS 第八代偏转护盾"
+tech_mlts_shield_8_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_9:0 "MLTS 第九代偏转护盾"
+tech_mlts_shield_9_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+tech_mlts_shield_10:0 "MLTS 第十代偏转护盾"
+tech_mlts_shield_10_desc:0 "为MLTS系列战术机设计更适宜更强偏转护盾系统"
+
+
+
+
+
+
